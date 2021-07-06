@@ -1,0 +1,6 @@
+framework module Pods_FireApp_FireAppUITests {
+  umbrella header "Pods-FireApp-FireAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
